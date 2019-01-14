@@ -1,0 +1,6 @@
+name = Magnific Popup picture
+description = Provides Magnific Popup formatter for File Entity and Picture fields.
+package = "Media"
+core = 7.x
+dependencies[] = magnific_popup
+dependencies[] = picture
